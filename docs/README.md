@@ -46,8 +46,8 @@
 Выходные данные: 239
 
 ## История коммитов:
-* 7a1feca (HEAD -> new_features_465446) Added description of each function
-* cdc0e01 (origin/new_features_465446) Added triangle.py. Fixed error in calculating perimeter in rectangle.py
+* 7a1feca Added description of each function
+* cdc0e01 Added triangle.py. Fixed error in calculating perimeter in rectangle.py
 * d7cc289 Added rectangle.py
-* d078c8d (origin/main, origin/HEAD, main) L-03: Docs added
-* 8ba9aeb L-03: Circle and square added
+* d078c8d Docs added
+* 8ba9aeb Circle and square added
