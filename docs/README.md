@@ -46,6 +46,8 @@
 Выходные данные: 239
 
 ## История коммитов:
+* 4d46eaa Added CI/CD pipeline
+* a844a67 Added unit tests
 * 7a1feca Added description of each function
 * cdc0e01 Added triangle.py. Fixed error in calculating perimeter in rectangle.py
 * d7cc289 Added rectangle.py
